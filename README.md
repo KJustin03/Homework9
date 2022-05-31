@@ -1,6 +1,6 @@
-# fdsa
+# Readme Generator
     
-![GitHub license](https://img.shields.io/badge/license-APACHE,2.0-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
 
@@ -16,22 +16,22 @@
     
 ## Description
     
-fdsa
+A project that can make a readme for people
 
 ## Installation
 ```   
-afds
+npm install inquirer then node index.js
 ```
 ## Usage
     
-afsd
+N/A
     
 ## Licenses 
-    This project is licensed under the APACHE 2.0 license.
+    This project is licensed under the MIT license.
     
 ## Contributing
     
-sadf
+N/A
 
 ## Tests
 
@@ -40,4 +40,4 @@ undefined
 ## Questions
 Do you have questions about this project? Contact me directly thru my Github and email that are listed below
 Github: https://github.com/undefined
-Email: fsda
+Email: kylejustin.yang@yahoo.com
