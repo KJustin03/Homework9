@@ -1,4 +1,4 @@
-# Readme Generator
+# README generator
     
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -16,15 +16,15 @@
     
 ## Description
     
-A project that can make a readme for people
+App that can make readme
 
 ## Installation
 ```   
-npm install inquirer then node index.js
+N/A
 ```
 ## Usage
     
-N/A
+![Note Taker](/Untitled_%20Jun%2022%2C%202022%2012_12%20AM.gif)
     
 ## Licenses 
     This project is licensed under the MIT license.
